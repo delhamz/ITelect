@@ -135,6 +135,7 @@ body{
     font-size:50px;
     font-weight: bolder;
     font-style: normal ;
+    color: rgb(1, 17, 30);
 }
 .nameprofile1{
     font-size:25px;
@@ -160,7 +161,7 @@ body{
 }
 .biorow{
     
-    height:550px;
+    height:700px;
     width:850px;
     background-color: rgb(140, 162, 26);
     padding-top: 20PX;
@@ -176,6 +177,8 @@ body{
 }
 .pbio{
     padding-left: 60px;
+    font-weight: 200;
+    font-size:20px;
 }
 
 
