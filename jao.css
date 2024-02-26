@@ -1,0 +1,193 @@
+
+body{
+    height:50px;
+    width:1000px;
+    background-color: rgba(3, 7, 16, 0.532);
+}
+.profilebtn {
+    height: 60px;
+    width: 150px;
+    margin-left: 50px;
+    margin-top:20px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    font-style:normal;
+    padding-left:10px;
+    padding-right:10px;
+    padding-top:5px;
+    padding-bottom:5px;
+
+
+}
+
+.biobtn{
+    height: 60px;
+    width: 150px;
+    margin-left: 50px;
+   
+    margin-top:0px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    font-style:normal;
+    padding-left:10px;
+    padding-right:10px;
+    padding-top:5px;
+    padding-bottom:5px;
+}
+
+
+.vidbtn{
+    height: 60px;
+    width: 150px;
+    margin-left: 50px;
+    margin-top:0px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    font-style:normal;
+    padding-left:10px;
+    padding-right:10px;
+    padding-top:5px;
+    padding-bottom:5px;
+}
+
+.musicbtn{
+    height: 60px;
+    width: 150px;
+    margin-left: 50px;
+    margin-top:0px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    font-style:normal;
+    padding-left:10px;
+    padding-right:10px;
+    padding-top:5px;
+    padding-bottom:5px;
+
+}
+
+.pcontainer{
+    height: 125px;
+    width:850px;
+    padding-top:10px;
+    padding-bottom: 10px;
+    background-color: black;
+
+}
+
+.intro{
+    font-size: 45px;
+    font-weight: 1000;
+    color:antiquewhite
+}
+.intro2{
+    margin-top: 0%;
+    font-size:25px;
+}
+.namep{
+    margin-left: 500px;
+    margin-top: 0%;
+
+
+
+
+
+
+
+
+
+}
+.profile{
+    height:400px;
+    width:400px;
+    margin-top: 50px;
+    border-radius: 40px;
+    padding-left: 10px;
+    padding-bottom: 5px;
+    margin-left:5px;
+    margin-bottom: 15px;
+}
+.row{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    height:520px;
+    width:850px;
+    background-color: rgb(221, 190, 190);
+}
+.one{
+    height:430px;
+    width:380px;
+    margin-top: 50px;
+    border-radius: 40px;
+    background-color: aqua;
+}
+.two{
+    height:400px;
+    width:400px;
+    margin-top: 50px;
+    border-radius: 40px;
+    margin-left:25px;
+    
+    
+}
+.nameProfile{
+   
+    font-size:50px;
+    font-weight: bolder;
+    font-style: normal ;
+}
+.nameprofile1{
+    font-size:25px;
+    font-weight: bolder;
+    font-style: normal ;
+}
+.bg{
+   background-color: rgb(4, 19, 14);
+}
+
+
+
+
+
+
+
+
+
+.Biodata{
+    height:640px;
+    width: 850px;
+    background-color: brown;
+}
+.biorow{
+    
+    height:550px;
+    width:850px;
+    background-color: rgb(140, 162, 26);
+    padding-top: 20PX;
+
+
+}
+.bioText{
+    font-size: 50px;
+    font-weight: bolder;
+    color: blue;
+    text-align: center;
+    padding-left: 60%;
+}
+.pbio{
+    padding-left: 60px;
+}
+
+
+
+
+
+.videorow{
+    
+    height:550px;
+    width:850px;
+    background-color: rgb(64, 69, 39);
+    padding-top: 20PX;
+
+
+}
