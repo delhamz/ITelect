@@ -5,6 +5,26 @@ body{
     background-color: rgba(3, 7, 16, 0.532);
    
 }
+
+.bg{
+  height: 600px;
+  width:850px;
+  background-color: black;
+  
+}
+.bg:hover{
+    background-image: url(nguyen-khanh-ly-liiusuaISP0-unsplash.jpg);
+
+}
+.time{
+    color: brown;
+    font-weight:1000;
+    font-size:30px;
+    background-color: bisque;
+}
+.time:hover{
+    background-color: rgb(171, 113, 27);
+}
 .profilebtn {
     height: 60px;
     width: 150px;
@@ -17,8 +37,16 @@ body{
     padding-right:10px;
     padding-top:5px;
     padding-bottom:5px;
+    border-radius: 15px;
+    background-color: bisque;
 
 
+}
+.profilebtn:hover{
+    background-color:red;
+    border-radius: 25px;
+    font-weight:1000 ;
+    
 }
 
 .biobtn{
@@ -34,9 +62,16 @@ body{
     padding-right:10px;
     padding-top:5px;
     padding-bottom:5px;
+    border-radius: 15px;
+    background-color: bisque;
 }
 
-
+.biobtn:hover{
+    background-color:red;
+    border-radius: 25px;
+    font-weight:1000 ;
+    
+}
 .vidbtn{
     height: 60px;
     width: 150px;
@@ -49,6 +84,14 @@ body{
     padding-right:10px;
     padding-top:5px;
     padding-bottom:5px;
+    border-radius: 15px;
+    background-color: bisque;
+}
+.vidbtn:hover{
+    background-color:red;
+    border-radius: 25px;
+    font-weight:1000 ;
+    
 }
 
 .musicbtn{
@@ -63,7 +106,15 @@ body{
     padding-right:10px;
     padding-top:5px;
     padding-bottom:5px;
+    border-radius: 15px;
+    background-color: bisque;
 
+}
+.musicbtn:hover{
+    background-color:red;
+    border-radius: 25px;
+    font-weight:1000 ;
+    
 }
 
 .pcontainer{
@@ -71,14 +122,15 @@ body{
     width:850px;
     padding-top:10px;
     padding-bottom: 10px;
-    background-color: black;
+    background-image:url(bgbg.jpeg);
+    opacity:3px;
 
 }
 
 .intro{
     font-size: 45px;
     font-weight: 1000;
-    color:antiquewhite
+    color:rgb(160, 116, 58)
 }
 .intro2{
     margin-top: 0%;
@@ -106,6 +158,9 @@ body{
     padding-bottom: 5px;
     margin-left:5px;
     margin-bottom: 15px;
+}
+.profile:hover{
+    background-image:url(IMG_1695644464252.jpg);
 }
 .row{
     display: flex;
@@ -142,12 +197,8 @@ body{
     font-size:25px;
     font-weight: bolder;
     font-style: normal ;
-}
-.bg{
-   background-color: rgb(4, 19, 14);
-}
 
-
+}
 
 
 
@@ -219,7 +270,7 @@ body{
     
     height:750px;
     width:850px;
-    background-color: rgb(132, 154, 21);
+    background-color: rgb(208, 220, 102));
     padding-top: 2PX;
 }
 
@@ -242,4 +293,29 @@ body{
     border-style: dashed;
     border-color: aquamarine;
     background-color: antiquewhite;
+}
+
+
+
+
+
+.profiletop{
+    margin-top:100px;
+    margin-left:350px ;
+    height:50px;
+    width:70px;
+    font-weight:500;
+    font-size:15px;
+   background-color: brown;
+   border-radius: 10px;
+}
+.profiletop:hover{
+    background-color:red;
+    border-radius: 25px;
+    font-weight:1000 ;
+    
+}
+.pos{
+    position:absolute;
+    padding-top: 0;
 }
