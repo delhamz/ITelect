@@ -3,6 +3,7 @@ body{
     height:50px;
     width:1000px;
     background-color: rgba(3, 7, 16, 0.532);
+   
 }
 .profilebtn {
     height: 60px;
@@ -110,7 +111,7 @@ body{
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
-    height:520px;
+    height:600px;
     width:850px;
     background-color: rgb(221, 190, 190);
 }
@@ -187,10 +188,58 @@ body{
 
 .videorow{
     
-    height:550px;
+    height:750px;
     width:850px;
     background-color: rgb(64, 69, 39);
-    padding-top: 20PX;
+    padding-top: 2PX;
+}
+.video{
+    width: 800px;
+    height:600px;
+    padding-top: 5px;
+    padding-left: 20px;
+}
+.justmy{
+    padding-left:20px;
+    font-size: 50px;
+    font-weight: bolder;
+    margin-top: 2px;
+    border-style: dashed;
+    border-color: aquamarine;
+    background-color: antiquewhite;
+}
 
 
+
+
+
+
+
+.audiorow{
+    
+    height:750px;
+    width:850px;
+    background-color: rgb(132, 154, 21);
+    padding-top: 2PX;
+}
+
+.audioImg{
+    width: 500px;
+    height:600px;
+    padding-top: 5px;
+    padding-left: 160px;
+    align-content: center;
+}
+.audio{
+    padding-left: 160px;
+    width:500px;
+}
+.wild{
+    padding-left:160px;
+    font-size: 50px;
+    font-weight: bolder;
+    margin-top: 2px;
+    border-style: dashed;
+    border-color: aquamarine;
+    background-color: antiquewhite;
 }
